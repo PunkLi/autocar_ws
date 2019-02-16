@@ -1,0 +1,12 @@
+.vscode/*
+build/*
+devel/lib/*
+devel/share/*
+devel/_setup_util.py
+devel/.built_by
+devel/.catkin
+devel/.rosinstall
+devel/env.sh
+devel/setup.*
+src/CMakeLists.txt
+.catkin_workspace
